@@ -18,6 +18,8 @@ Update Data
 -  View it locally with `npm run db:studio`
 -  Fully delete and repopulate data with `npm run db:reset`
 
+-  Lula X Bolsonaro 
+
 Prisma Commands
 
 -  migrate: npx prisma migrate dev --name ${NAME}
