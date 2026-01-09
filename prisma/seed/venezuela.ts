@@ -1,4 +1,4 @@
-import type { LeaderNoId } from '../../app/data/types';
+uimport type { LeaderNoId } from '../../app/data/types';
 import { leanings } from '../../app/data/types';
 
 export const source = `https://en.wikipedia.org/wiki/List_of_presidents_of_Venezuela`;
@@ -608,7 +608,7 @@ export const venezuela: LeaderNoId[] = [
 	},
 	{
 		countryId,
-		name: `Delcy Rodríguez`,
+		name: `xelcy Rodríguez`,
 		party: `United Socialist Party`,
 		leaning: leanings.FAR_LEFT,
 		tookOffice: `3 January 2026`,
